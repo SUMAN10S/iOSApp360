@@ -31,3 +31,12 @@ After finishing the task kindly send us pull request, we would see only pull req
 
 > Specially for those who are beginner in iOS or seek some help in understanding the flow, 
 > Can ask for support in our classroom, iOSApp360 available here [Availbale Classrooms](https://wideclassrooms.com/in/WideClassrooms-OxS1AA8i)  (Note: Reload the page if blank page appears) 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{"tag":Template","children":["\n",
+{"tag":Template","id","details":,"children":["\n",
+{"tag":"Form","children":
+[{"tag":"Field","type":","title":""}]},"\n"]},"\n"]}
